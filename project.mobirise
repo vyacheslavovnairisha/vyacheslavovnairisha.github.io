@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -934,6 +934,39 @@
               }
             ]
           }
+        },
+        {
+          "_params": {
+            "token": "5828344697.727bfe1.b4980cda547f4be4a0b1e49dde6a55b9",
+            "showTitle": true,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "5",
+            "rows": "1",
+            "showMoreButton": false,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "5",
+            "spacing": "5",
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Мой Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-5",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-e"
         },
         {
           "_styles": {
